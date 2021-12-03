@@ -24,11 +24,11 @@ const summedInputs = (data) => {
 };
 
 const part1 = (data) => {
-  console.log(increaseCount(data));
+  console.info(increaseCount(data));
 };
 
 const part2 = (data) => {
-  console.log(increaseCount(summedInputs(data)));
+  console.info(increaseCount(summedInputs(data)));
 };
 
 const main = async () => {
