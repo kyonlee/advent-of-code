@@ -7,5 +7,6 @@ extends:
 parserOptions:
   ecmaVersion: 13
 rules: {
-  no-console: ["allow"]
+  no-console: ["off"],
+  no-continue: ["off"]
 }
