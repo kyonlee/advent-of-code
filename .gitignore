@@ -136,3 +136,5 @@ dist
 
 # Additional stuff
 config
+.DS_Store
+.python-version
